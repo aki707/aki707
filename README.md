@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Django, Gen AI**
 
-- 💬 Ask me about **HTML, C, JAVA**
+- 💬 Ask me about **Rag, rest-api, microservices, reactJs, django, fast-api**
 
 - 📫 How to reach me **caakash707@gmail.com**
 
